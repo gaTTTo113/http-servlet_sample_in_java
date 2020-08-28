@@ -1,1 +1,1 @@
-# http-server_sample_in_java
+# http-servlet_sample_in_java
